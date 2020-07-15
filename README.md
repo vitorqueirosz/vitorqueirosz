@@ -10,4 +10,4 @@ Passionate about technology and the JavaScript ecosystem, its libraries and fram
 - :computer: ReactJS, NodeJS, React Native e TypeScript.
 - :books: Always learning.
 
-With ♥ by [Vitor Queiroz](https://www.linkedin.com/in/vitor-queiroz-4b32131a3/)!
+#### With ♥ by [Vitor Queiroz](https://www.linkedin.com/in/vitor-queiroz-4b32131a3/)!
